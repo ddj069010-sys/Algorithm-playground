@@ -1,0 +1,5 @@
+# 🚀 ALGORITHM PLAYGROUND V2 - COMPLETE SETUP GUIDE
+
+## ⚡ QUICK START (5 MINUTES)
+
+### 1. Clone or Download All Files
